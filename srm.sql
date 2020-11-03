@@ -21,7 +21,7 @@ create table Product (
 );
 go 
 create table Inventory (
-    InventoryID int identity primary key clustered,
+    -- InventoryID int identity primary key clustered, --reserved in CDM.
     ProductCode int foreign key references Product(ProductCode),
     Location varchar(128),
     Shelf varchar(25), 
