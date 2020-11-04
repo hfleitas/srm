@@ -56,4 +56,4 @@ select 32323055, 'Warehouse', substring(convert(varchar(40),newid()),1,3), round
 go 
 select * from Product
 select * from Inventory
-go 
+go
