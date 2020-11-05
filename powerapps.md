@@ -1,4 +1,4 @@
-##PowerApps Resources
+## PowerApps Resources
 
 1. [Pepsi Customer Story](https://customers.microsoft.com/en-au/story/gj-pepsi-consumer-goods-powerapps)
 2. [Improving model performance](https://docs.microsoft.com/en-us/ai-builder/collect-images)
