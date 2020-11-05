@@ -29,3 +29,4 @@ Post-POC:
 7. Test model
 8. Build app user interface with functionalities
 9. Test and review app
+10. Inventory sqft color rule (temp) if <=2.7k low, between 10k normal, +10k good.
