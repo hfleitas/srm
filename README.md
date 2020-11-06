@@ -17,6 +17,8 @@ Post-POC:
 2. Add items to cart with quantities & email list to sales rep for processing.
 3. Show recommended items to match floor tile based on purchases (ie. walls, kitchen, terrace, poorch, driveway, grout, etc). 
 
+Project Board: https://github.com/hfleitas/srm/projects/1
+
 ![Gain Value](https://pwrappscdn.azureedge.net/cvt-f9bd637f5269a3f04e4a51ce84e5f3b79c46481163a186844c9f6866ee6fd19b/images/page/ai-builder/panel-gainvalue.jpg)
 
 ## POC Steps
