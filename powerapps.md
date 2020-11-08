@@ -11,7 +11,7 @@
 3. MBAS Session: [Geospatial / Maps](https://mymbas.microsoft.com/sessions/e2ee04fc-2233-4227-9474-e044fa0d8883?source=speakerdetail)
 ### Documentation 
 * [Add Components](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/mixed-reality-overview)
-* [View 3D Content](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/mixed-reality-component-view-3d)
+* **[View 3D Content](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/mixed-reality-component-view-3d)**
 ### Contact 
 * [mrceg@microsoft.com](mailto:mrceg@microsoft.com)
 * [https://aka.ms/powerAppsMRIdeas](https://aka.ms/powerAppsMRIdeas)
