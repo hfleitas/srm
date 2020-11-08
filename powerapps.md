@@ -12,3 +12,7 @@
 ### Documentation 
 * [Add Components](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/mixed-reality-overview)
 * [View 3D Content](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/mixed-reality-component-view-3d)
+### Contact 
+* [mrceg@microsoft.com](mailto:mrceg@microsoft.com)
+* [https://aka.ms/powerAppsMRIdeas](https://aka.ms/powerAppsMRIdeas)
+* [@mxdReality](https://twitter.com/mxdReality)
