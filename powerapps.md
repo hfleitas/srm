@@ -7,7 +7,7 @@
 
 ## [Mixed Reality](https://powerapps.microsoft.com/en-us/blog/introducing-mixed-reality-in-power-apps/)
 1. [3D Control](https://www.youtube.com/watch?v=mumeUoaE21k)
-2. MBAS Session: [Mixed Reality](https://mymbas.microsoft.com/sessions/7b527160-9bbe-4f27-8972-c00d3f73e44f?source=sessions)
+2. MBAS Session: **[Mixed Reality](https://mymbas.microsoft.com/sessions/7b527160-9bbe-4f27-8972-c00d3f73e44f?source=sessions)**
 3. MBAS Session: [Geospatial / Maps](https://mymbas.microsoft.com/sessions/e2ee04fc-2233-4227-9474-e044fa0d8883?source=speakerdetail)
 ### Documentation 
 * [Add Components](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/mixed-reality-overview)
