@@ -4,4 +4,10 @@
 2. [Improving model performance](https://docs.microsoft.com/en-us/ai-builder/collect-images)
 3. Add [AI Builder](https://powerapps.microsoft.com/en-us/ai-builder/) to your PowerApps Plan: [pricing estimator](https://powerapps.microsoft.com/en-us/ai-builder-calculator/)
 4. [Format text as currency](https://powerusers.microsoft.com/t5/Building-Power-Apps/How-do-I-format-a-field-to-look-like-currency/m-p/333252?lightbox-message-images-127014=28693i34D470A228DD3DC6#M95738)
-5. [Mixed Reality](https://powerapps.microsoft.com/en-us/blog/introducing-mixed-reality-in-power-apps/)
+
+## [Mixed Reality](https://powerapps.microsoft.com/en-us/blog/introducing-mixed-reality-in-power-apps/)
+1. [3D Control](https://www.youtube.com/watch?v=mumeUoaE21k)
+2. [Mixed Reality in Power Apps MBAS session](https://mymbas.microsoft.com/sessions/7b527160-9bbe-4f27-8972-c00d3f73e44f?source=sessions)
+### Documentation 
+* [Add Components](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/mixed-reality-overview)
+* [View 3D Content](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/mixed-reality-component-view-3d)
