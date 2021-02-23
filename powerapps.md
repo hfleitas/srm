@@ -17,3 +17,4 @@
 * [mrceg@microsoft.com](mailto:mrceg@microsoft.com)
 * [https://aka.ms/powerAppsMRIdeas](https://aka.ms/powerAppsMRIdeas)
 * [@mxdReality](https://twitter.com/mxdReality)
+* [Display Images in Gallery](https://www.spguides.com/display-images-from-a-sharepoint-online-library-in-powerapps/)
