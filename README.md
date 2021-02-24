@@ -33,4 +33,4 @@ Project Board: https://github.com/hfleitas/srm/projects/1
 9. Test and review app
 10. Inventory sqft color rule (temp) if <=2.7k low, between 10k normal, +10k good.
 
-## Ready for demo [App v122](https://apps.powerapps.com/play/02a246dc-4251-46c4-95a9-200c4f210af0?tenantId=800d472c-8288-4f27-8978-f726a7a3d1f0)
+## Ready for demo [App v128](https://apps.powerapps.com/play/02a246dc-4251-46c4-95a9-200c4f210af0?tenantId=800d472c-8288-4f27-8978-f726a7a3d1f0)
