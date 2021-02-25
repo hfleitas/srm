@@ -20,6 +20,7 @@ Phase 2:
 Project Board: https://github.com/hfleitas/srm/projects/1
 
 ![Gain Value](https://pwrappscdn.azureedge.net/cvt-f9bd637f5269a3f04e4a51ce84e5f3b79c46481163a186844c9f6866ee6fd19b/images/page/ai-builder/panel-gainvalue.jpg)
+[ROI Case Study](https://go.microsoft.com/fwlink/?LinkId=2126953&clcid=0x409)
 
 ## Initial Steps
 1. Document products
